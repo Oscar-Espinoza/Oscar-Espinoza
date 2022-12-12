@@ -16,6 +16,7 @@
 - 📫 How to reach me **oscardavid2094@gmail.com**
 
 <br>
+<br>
 
 <h3 align="center" display="inline">Connect with me:</h3>
 <p align="center">
