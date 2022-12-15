@@ -34,4 +34,4 @@
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=oscar-espinoza&show_icons=true&locale=en&layout=compact" alt="oscar-espinoza" /></p> 
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscar-espinoza&show_icons=true&locale=en" alt="oscar-espinoza"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=oscar-espinoza&show_icons=true&locale=en" alt="oscar-espinoza"/></p>
