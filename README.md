@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscar-espinoza&label=Profile%20views&color=0e75b6&style=flat" alt="oscar-espinoza" /> </p>
 
-- 🔭 I’m currently working on [CC-Global-Summit](https://github.com/Oscar-Espinoza/CC-Global-Summit)
+- 🔭 Currently working on [CC-Global-Summit](https://github.com/Oscar-Espinoza/CC-Global-Summit)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 Learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://oscar-espinoza.github.io/Portfolio-page/](https://oscar-espinoza.github.io/Portfolio-page/)
 
 - 💬 Ask me about **react, ruby and node**
 
-- 📫 How to reach me **oscardavid2094@gmail.com**
+- 📫 Email me at **oscardavid2094@gmail.com**
 
 <br>
 <br>
