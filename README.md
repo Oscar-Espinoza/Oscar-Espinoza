@@ -9,7 +9,7 @@
 
 - 🌱 Learning **Go**
 
-- 👨‍💻 All of my projects are available at [My portfolio page]([https://oscar-espinoza.github.io/Portfolio-page/](https://oscar-espinoza.netlify.app/))
+- 👨‍💻 All of my projects are available at [My portfolio page](https://oscar-espinoza.netlify.app/)
 
 - 💬 Ask me about **React, Node, tech trends**
 
