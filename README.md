@@ -9,9 +9,9 @@
 
 - 🌱 Learning **Go**
 
-- 👨‍💻 All of my projects are available at [https://oscar-espinoza.github.io/Portfolio-page/](https://oscar-espinoza.github.io/Portfolio-page/)
+- 👨‍💻 All of my projects are available at [My portfolio page]([https://oscar-espinoza.github.io/Portfolio-page/](https://oscar-espinoza.netlify.app/))
 
-- 💬 Ask me about **react, ruby and node**
+- 💬 Ask me about **React, Node, tech trends**
 
 - 📫 Email me at **oscardavid2094@gmail.com**
 
